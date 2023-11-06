@@ -1,0 +1,7 @@
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\bin\Debug\MachineTest-Csharp.exe.config
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\bin\Debug\MachineTest-Csharp.exe
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\bin\Debug\MachineTest-Csharp.pdb
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\obj\Debug\MachineTest-Csharp.csproj.AssemblyReference.cache
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\obj\Debug\MachineTest-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\obj\Debug\MachineTest-Csharp.exe
+C:\Users\Adarsh VA\source\repos\MachineTest-Csharp\MachineTest-Csharp\obj\Debug\MachineTest-Csharp.pdb
